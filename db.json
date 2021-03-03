@@ -29,23 +29,6 @@
       "www.gingertw.com"
     ]
   },
-  "tw_hotels_skyscanner": {
-    "item": {
-      "name": "Skyscanner",
-      "image": "/images/store/skyscanner@2x.png",
-      "height": "20",
-      "width": "20",
-      "domain": [],
-      "checkout_url": [],
-      "checkout_done_url": [],
-      "image@3x": "/images/store/skyscanner@3x.png"
-    },
-    "detail": {
-      "image": "https://biggo.com.tw/images/img_default_storelogo@2x.png"
-    },
-    "domain": []
-  },
-
   "tw_pec_witsper": {
     "item": {
       "name": "智選家",
